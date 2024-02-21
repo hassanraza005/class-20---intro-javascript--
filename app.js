@@ -32,4 +32,8 @@ console.log(vehiche)
 console.log(countryName)
 console.log(postelcode)
 
-console
+var fatherAge = 40
+var sonAge = 22
+
+
+console.log (fatherAge + sonAge);
